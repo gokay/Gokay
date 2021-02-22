@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokay&count_private=true)](https://github.com/gokay)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokay&count_private=true&show_icons=true)](https://github.com/gokay)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokay&repo=sierralibrary)](https://github.com/gokay)
 
