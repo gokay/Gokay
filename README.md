@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gokay/gokay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokay)](https://github.com/gokay)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokay&count_private=true)](https://github.com/gokay)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokay&repo=github-readme-stats)](https://github.com/gokay)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokay&repo=sierralibrary)](https://github.com/gokay)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokay&count_private=true)
 
