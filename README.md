@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gokay&count_private=true&show_icons=true)](https://github.com/gokay)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokay&repo=sierralibrary)](https://github.com/gokay)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokay)](https://github.com/gokay)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokay&layout=compact)](https://github.com/gokay)
